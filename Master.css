@@ -1,0 +1,38 @@
+body{
+  font-family: "open Sans", sans-serif;
+  color: red;
+}
+
+h1{
+  color: red;
+  background-color: black;
+}
+img{
+  height: 200px;
+  text-align: left;
+}
+
+figcaption span{
+  font-size: 1em;
+  text-align: left;
+  
+
+}
+
+
+p#p-description{
+margin: 20px 0 20px 0;
+text-align: left;
+}
+
+div.review{
+  padding: 15px;
+  background-color: black;
+  margin: 20px 0 20px 0;
+
+}
+footer {
+  background-color: black;
+  padding: 20px;
+  text-align: center;
+}
